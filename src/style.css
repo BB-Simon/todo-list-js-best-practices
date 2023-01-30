@@ -36,8 +36,6 @@ ul {
   min-width: 600px;
   background-color: #fff;
   margin: 0 auto;
-
-  /* padding: 20px; */
   display: flex;
   flex-direction: column;
   box-shadow: 1px 3px 3px #aaa;
@@ -196,7 +194,5 @@ ul {
 
 .clear-btn:hover,
 .clear-btn:focus {
-  border: none;
-  outline: none;
   cursor: pointer;
 }
